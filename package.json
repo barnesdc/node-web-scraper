@@ -1,0 +1,11 @@
+{
+  "name": "confluence-cluster-stats",
+  "version": "1.0.0",
+  "description": "package to obtain cluster stats for dev and prod",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "D'Ante Barnes",
+  "license": "ISC"
+}
